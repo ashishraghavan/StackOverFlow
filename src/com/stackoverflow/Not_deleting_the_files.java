@@ -1,4 +1,4 @@
-//https://stackoverflow.com/questions/56612861/not-deleting-the-files
+package com.stackoverflow;//https://stackoverflow.com/questions/56612861/not-deleting-the-files
 
 
 import java.io.BufferedReader;
@@ -35,6 +35,5 @@ public class Not_deleting_the_files {
             }
         }
         System.out.println("A total of "+count+" files were deleted");
-
     }
 }
